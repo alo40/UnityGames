@@ -2,17 +2,17 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-./Salchichon/[Ll]ibrary/
-./Salchichon/[Tt]emp/
-./Salchichon/[Oo]bj/
-./Salchichon/[Bb]uild/
-./Salchichon/[Bb]uilds/
-./Salchichon/[Ll]ogs/
-./Salchichon/[Uu]ser[Ss]ettings/
+Salchichon/[Ll]ibrary/
+Salchichon/[Tt]emp/
+Salchichon/[Oo]bj/
+Salchichon/[Bb]uild/
+Salchichon/[Bb]uilds/
+Salchichon/[Ll]ogs/
+Salchichon/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
-./Salchichon//[Mm]emoryCaptures/
+Salchichon//[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
 /[Rr]ecordings/
@@ -65,9 +65,9 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Packed Addressables
-./Salchichon/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+Salchichon/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-./Salchichon/[Aa]ssets/[Ss]treamingAssets/aa.meta
-./Salchichon/[Aa]ssets/[Ss]treamingAssets/aa/*
+Salchichon/[Aa]ssets/[Ss]treamingAssets/aa.meta
+Salchichon/[Aa]ssets/[Ss]treamingAssets/aa/*
 
